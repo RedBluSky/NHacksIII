@@ -1,1 +1,9 @@
-
+    body{
+      background-color:yellow;
+      text-align: center;
+  }
+    .hello-world{
+      color: #F1EA65;
+      font-size: 6em;
+      font-family:'Helvetica';
+    }
